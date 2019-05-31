@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.pruebaAlmundo.modelo"},{"l":"com.pruebaAlmundo.negocio"},{"l":"com.pruebaAlmundo.test"},{"l":"com.pruebaAlmundo.util"}]
